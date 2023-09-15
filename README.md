@@ -1,5 +1,5 @@
 
-# Movie factors analysis
+# Movie & film industry factors analysis(Box office)
 
  In this project, we are tasked with analyzing data from various sites some with common columns and some with different columns.
 
@@ -22,7 +22,7 @@ NOTE: All the plots should seek to adress the objectives outlined, should not be
 
 
 
-## 🔗 Links
+
 [![linkedin](https://www.linkedin.com/in/isaackodhiamboodera/)](https://www.linkedin.com/)
 
 
